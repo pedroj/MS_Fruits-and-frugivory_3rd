@@ -1,0 +1,18 @@
+2012-06-26 20:39:19 +0000
+ file: ---/Users/pedroj/Documents/Working/MS_Fruits and frugivory_3rd/old_data/Crop sizes levey-Fig. 3--- with 9216 bytes.
+File type = DRWGDRWG DRWG.
+NO RESOURCE FORK FOUND!!: patterns, colors, and gradients are not defined.
+No resource for drawing information found.
+No resource for ruler information found.
+Conversion report for 21 packets.
+MacDrawII File Header Record Description:
+ N Layers = 1, Selected Layer = 1, N Graphics = 102
+Found 7 pen definitions.
+Found 6 dash definitions.
+Found 5 text style definitions.
+One layer definition found.
+One Pascal string found.
+Data packet with 44 path definitions.
+Data packet with 23 text definitions.
+Found 102 independent graphic definitions.
+Resource Fork: contains a total of 0 resources.
